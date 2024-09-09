@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.20711fed.css",
+    "main.js": "/static/js/main.5b982c19.js",
+    "static/media/Bookmyshow-Poster-Horizontal-05-1.jpg": "/static/media/Bookmyshow-Poster-Horizontal-05-1.f33c6438b810ca50a904.jpg",
+    "static/media/Bookmyshow-Poster-Horizontal-04-1.jpg": "/static/media/Bookmyshow-Poster-Horizontal-04-1.fd115b2c586636043535.jpg",
+    "static/media/navratri-img1.webp": "/static/media/navratri-img1.ccc77b5445481eee38a7.webp",
+    "static/media/image6.webp": "/static/media/image6.1fada69fa2fd8725ea9a.webp",
+    "static/media/navratri-img3.webp": "/static/media/navratri-img3.96e258c5979141024dd2.webp",
+    "static/media/navratri-img2.webp": "/static/media/navratri-img2.9737a515371ae140a503.webp",
+    "static/media/cropped-Norta-2024-_-Logo.png": "/static/media/cropped-Norta-2024-_-Logo.a5e6c62eb0327063f2ab.png",
+    "static/media/logo.png": "/static/media/logo.a5e6c62eb0327063f2ab.png",
+    "static/media/navratri-img7.webp": "/static/media/navratri-img7.c551a62e7e7f183aa05c.webp",
+    "static/media/navratri-img4.webp": "/static/media/navratri-img4.764ee17da3c9092de63d.webp",
+    "static/media/Group-3.png": "/static/media/Group-3.1b4582c3659d5bacda24.png",
+    "static/media/Group-2880-1-1.png": "/static/media/Group-2880-1-1.a1259c3c8971310dd27d.png",
+    "static/media/map-tile-2.jpg": "/static/media/map-tile-2.43257b833c0df44e347e.jpg",
+    "static/media/Group-1.png": "/static/media/Group-1.b10042d2b73397ab2b74.png",
+    "static/media/Group-2.png": "/static/media/Group-2.f3c5d1be9e51d4095471.png",
+    "static/media/CORONA.png": "/static/media/CORONA.ee6344dacb3252fb4d00.png",
+    "index.html": "/index.html",
+    "main.20711fed.css.map": "/static/css/main.20711fed.css.map",
+    "main.5b982c19.js.map": "/static/js/main.5b982c19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20711fed.css",
+    "static/js/main.5b982c19.js"
+  ]
+}
